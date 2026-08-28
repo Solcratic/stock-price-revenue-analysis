@@ -1,7 +1,3 @@
-Tesla and GameStop Stock Data Analysis
+Built a Python data analysis project comparing historical stock prices and quarterly revenue data for Tesla and GameStop. Retrieved market data using yfinance, extracted revenue data through web scraping, cleaned the datasets, and created visualizations to compare financial performance over time.
 
-Tools: Python, Pandas, BeautifulSoup, Plotly (again, depending on what you actually used)
-
-Project Overview
-
-Extracted, processed, and visualized historical stock and revenue data for Tesla and GameStop.
+Skills: Python, Pandas, BeautifulSoup, Web Scraping, yfinance, Data Visualization, Matplotlib
